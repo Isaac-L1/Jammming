@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Jammming
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a react app which allows you to create spotify playlists and add them to your spotify account using OAuth.
+
+This was made following the Jammming react project available on codecademy.com
 
 ## Available Scripts
 
